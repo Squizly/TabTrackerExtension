@@ -68,19 +68,6 @@
 
 ---
 
-## ⚙️ Структура проекта
-
-time-tab-tracker/
-├── manifest.json
-├── background.js
-├── popup.html
-├── popup.js
-├── styles.css
-├── activity.gs         # Скрипт для Google Таблиц
-└── README.md
-
----
-
 ## 📝 Пример отображения данных в таблице
 
 | Дата    | Домен               | Время          |
