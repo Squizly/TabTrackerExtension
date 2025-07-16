@@ -3,7 +3,7 @@ let activeWindowId = null;
 let startTime = null;
 let timerId = null;
 
-const GAS_URL = ""; // paste WEB-HOOK from google sheets
+const GAS_URL = "YOUR_WEBHOOK_URL";
 
 async function saveTime(tabId, timeSpent) {
   try {
