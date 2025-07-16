@@ -76,7 +76,7 @@ time-tab-tracker/
 ├── popup.html
 ├── popup.js
 ├── styles.css
-├── activity.gs # Скрипт для Google Таблиц
+├── activity.gs         # Скрипт для Google Таблиц
 └── README.md
 
 ---
